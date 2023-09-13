@@ -2,8 +2,9 @@ package model
 
 import (
 	"fmt"
-	"github.com/vx3r/wg-gen-web/util"
 	"time"
+
+	"github.com/vx3r/wg-gen-web/util"
 )
 
 // Server structure
